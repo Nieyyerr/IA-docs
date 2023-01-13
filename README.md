@@ -21,8 +21,10 @@ Rama de la inteligencia artificial,que busca como dotar a las maquinas de capaci
 
 # Paradigmas de aprendizaje
 
-*Aprendizaje supervisado
-*Aprendizaje no supervisado
+*Aprendizaje supervisado:tipo de aprendizaje donde alimentamos al algoritmo con datos etiquetados durante el entrenamiento.El algoritmo aprenderá a clasificar nuevos datos.El algoritmo aprenderá a clasificar nuevos datos.Por ejemplo:spam.
+
+*Aprendizaje no supervisado:tipo de aprendizaje donde alimentamos al algoritmo con datos no etiquetados.El algoritmo aprendera a encontrar patrons en los datos.Por ejemplo:encontrar clases de usuarios.
+
 *Aprendizaje reforzado
 
 ## Técnicas de Aprendizaje Automatico
