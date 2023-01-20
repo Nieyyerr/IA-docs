@@ -31,6 +31,19 @@ Rama de la inteligencia artificial,que busca como dotar a las maquinas de capaci
 
 * Arboles de decisión
 * Modelos de regresion
+    Introducción al problema
+    Sesión 1
+        Elección de clases y datos de entrenamiento
+        Entrenamiento del modelo
+        Evaluación del modelo y conclusiones
+    Sesión 2
+        Mejora de los datos de entrenamiento (opción 1)
+        Mejora de los parámetros de entremiento (opcion 2)
+        Evaluación del modelo y conclusiones
+    etc...
+
+
+
 * Modelos de clasificación
 * Modelos de clusterización
 * Modelos de redes neuronales
