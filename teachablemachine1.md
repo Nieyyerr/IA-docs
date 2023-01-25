@@ -18,4 +18,10 @@ Vemos que cada vez menos se guia por las formas y sabe diferenciar cada vez mas 
 La Ia cada ez mas acierta en la elección de imagenes y añadimos nuevos tipos de contenedores aunque aun le falta bastante certeza peroes eficiente en un gran porcentaje
 -Nuevo contendor:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elmundo.es%2Ftecnologia%2Fgadgets%2F2021%2F09%2F11%2F613b630dfdddffc8328b45a3.html&psig=AOvVaw3J6echiUMOy3_35pi4Rve7&ust=1674552699463000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCbvImx3fwCFQAAAAAdAAAAABAD
     
-    
+ | IMAGEN            | CATEGORIA REAL | CATEGORÍA DEL MODELO | PORCENTAJE | COMENTARIO |
+|-------------------|----------------|----------------------|------------|------------|
+| tarroconserva.jpg | VERDE          | AMARILLO             | 81,00%     |            |
+| tarro.jpg         | VERDE          | VERDE                | 15,00%     |            |
+| colilla.jpg       | GRIS           | AZUL                 | 13,00%     |            |
+| brote_spray.jpg   | AMARILLO       | AMARILLO             | 34,00%     |            |
+| periodico.jpg     | AZUL           | AZUL                 | 56,00%     |            |   
